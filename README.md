@@ -63,3 +63,12 @@ eh chiz to bachan vaste assi JavaScript sidhi sidhi nahi use krde, asdsi ohda ik
 
 let a:number = 3 --> let a = 3
 a = j
+
+scope of variables
+let vs const
+Blocks
+Flow of Control
+Loops
+var
+Functions
+Conditionals
