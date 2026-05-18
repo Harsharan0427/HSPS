@@ -1,0 +1,3 @@
+How to define Global Variables? To access it out of block?
+While loop vs for loop Example.
+if else is conditons ?
